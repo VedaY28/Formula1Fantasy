@@ -1,0 +1,183 @@
+Driver,Team,Season,Champ Position,Points,Teammate(s),Race entries,Vict.,Poles,Podiums,FastLap
+Esteban Ocon,Alpine,2024,15th,1.0,Pierre Gasly,8.0,0.0,0.0,0.0,0.0
+Esteban Ocon,Alpine,2023,12th,58.0,Pierre Gasly,22.0,0.0,0.0,1.0,0.0
+Esteban Ocon,Alpine,2022,8th,93.0,Fernando Alonso,22.0,0.0,0.0,0.0,0.0
+Esteban Ocon,Alpine,2021,11th,74.0,Fernando Alonso,22.0,1.0,0.0,1.0,0.0
+Esteban Ocon,Unknown,2020,12th,62.0,Daniel Ricciardo,17.0,0.0,0.0,1.0,0.0
+Esteban Ocon,Unknown,2018,12th,49.0,Sergio Perez,21.0,0.0,0.0,0.0,0.0
+Esteban Ocon,Unknown,2017,8th,87.0,Sergio Perez,20.0,0.0,0.0,0.0,0.0
+Esteban Ocon,Unknown,2016,0,0.0,Pascal Wehrlein,9.0,0.0,0.0,0.0,0.0
+Pierre Gasly,Alpine,2024,17th,1.0,Esteban Ocon,8.0,0.0,0.0,0.0,0.0
+Pierre Gasly,Alpine,2023,11th,62.0,Esteban Ocon,22.0,0.0,0.0,1.0,0.0
+Pierre Gasly,Unknown,2022,14th,23.0,Yuki Tsunoda,22.0,0.0,0.0,0.0,0.0
+Pierre Gasly,Unknown,2021,9th,110.0,Yuki Tsunoda,22.0,0.0,0.0,1.0,1.0
+Pierre Gasly,Unknown,2020,10th,75.0,Daniil Kvyat,17.0,1.0,0.0,1.0,0.0
+Pierre Gasly,Red_bull,2019,7th,95.0,"Daniil Kvyat , Max Verstappen",21.0,0.0,0.0,1.0,2.0
+Pierre Gasly,Unknown,2018,15th,29.0,Brendon Hartley,21.0,0.0,0.0,0.0,0.0
+Pierre Gasly,Unknown,2017,0,0.0,"Carlos Sainz , Brendon Hartley",5.0,0.0,0.0,0.0,0.0
+Fernando Alonso,Aston,2024,9th,33.0,Lance Stroll,8.0,0.0,0.0,0.0,1.0
+Fernando Alonso,Aston,2023,4th,206.0,Lance Stroll,22.0,0.0,0.0,8.0,1.0
+Fernando Alonso,Alpine,2022,9th,75.0,Esteban Ocon,22.0,0.0,0.0,0.0,0.0
+Fernando Alonso,Alpine,2021,10th,81.0,Esteban Ocon,22.0,0.0,0.0,1.0,0.0
+Fernando Alonso,Mclaren,2018,11th,50.0,Stoffel Vandoorne,21.0,0.0,0.0,0.0,0.0
+Fernando Alonso,Mclaren,2017,15th,17.0,Stoffel Vandoorne,19.0,0.0,0.0,0.0,1.0
+Fernando Alonso,Mclaren,2016,10th,54.0,Jenson Button,20.0,0.0,0.0,0.0,1.0
+Fernando Alonso,Mclaren,2015,17th,11.0,Jenson Button,18.0,0.0,0.0,0.0,0.0
+Fernando Alonso,Ferrari,2014,6th,161.0,Kimi Raikkonen,19.0,0.0,0.0,2.0,0.0
+Fernando Alonso,Ferrari,2013,2nd,242.0,Felipe Massa,19.0,2.0,0.0,9.0,2.0
+Fernando Alonso,Ferrari,2012,2nd,278.0,Felipe Massa,20.0,3.0,2.0,13.0,0.0
+Fernando Alonso,Ferrari,2011,4th,257.0,Felipe Massa,19.0,1.0,0.0,10.0,1.0
+Fernando Alonso,Ferrari,2010,2nd,252.0,Felipe Massa,19.0,5.0,2.0,10.0,5.0
+Fernando Alonso,Unknown,2009,9th,26.0,"Nelsinho Piquet , Romain Grosjean",17.0,0.0,1.0,1.0,2.0
+Fernando Alonso,Unknown,2008,5th,61.0,Nelsinho Piquet,18.0,2.0,0.0,3.0,0.0
+Fernando Alonso,Mclaren,2007,3rd,109.0,Lewis Hamilton,17.0,4.0,2.0,12.0,3.0
+Fernando Alonso,Unknown,2006,1st,134.0,Giancarlo Fisichella,18.0,7.0,6.0,14.0,5.0
+Fernando Alonso,Unknown,2005,1st,133.0,Giancarlo Fisichella,19.0,7.0,6.0,15.0,2.0
+Fernando Alonso,Unknown,2004,4th,59.0,"Jacques Villeneuve , Jarno Trulli",18.0,0.0,1.0,4.0,0.0
+Fernando Alonso,Unknown,2003,6th,55.0,Jarno Trulli,16.0,1.0,2.0,4.0,1.0
+Fernando Alonso,Unknown,2001,0,0.0,"Tarso Marques , Alex Yoong",17.0,0.0,0.0,0.0,0.0
+Lance Stroll,Aston,2024,11th,11.0,Fernando Alonso,8.0,0.0,0.0,0.0,0.0
+Lance Stroll,Aston,2023,10th,74.0,Fernando Alonso,22.0,0.0,0.0,0.0,0.0
+Lance Stroll,Aston,2022,15th,18.0,"Nico Hulkenberg , Sebastian Vettel",22.0,0.0,0.0,0.0,0.0
+Lance Stroll,Aston,2021,13th,34.0,Sebastian Vettel,22.0,0.0,0.0,0.0,0.0
+Lance Stroll,Unknown,2020,11th,75.0,"Nico Hulkenberg , Sergio Perez",16.0,0.0,1.0,2.0,0.0
+Lance Stroll,Unknown,2019,15th,21.0,Sergio Perez,21.0,0.0,0.0,0.0,0.0
+Lance Stroll,Williams,2018,18th,6.0,Sergey Sirotkin,21.0,0.0,0.0,0.0,0.0
+Lance Stroll,Williams,2017,12th,40.0,"Felipe Massa , Paul di Resta",20.0,0.0,0.0,1.0,0.0
+Carlos Sainz,Ferrari,2024,4th,104.0,Charles Leclerc,7.0,1.0,0.0,4.0,0.0
+Carlos Sainz,Ferrari,2023,7th,200.0,Charles Leclerc,22.0,1.0,2.0,3.0,0.0
+Carlos Sainz,Ferrari,2022,5th,246.0,Charles Leclerc,22.0,1.0,3.0,9.0,2.0
+Carlos Sainz,Ferrari,2021,5th,164.5,Charles Leclerc,22.0,0.0,0.0,4.0,0.0
+Carlos Sainz,Mclaren,2020,6th,104.0,Lando Norris,17.0,0.0,0.0,1.0,1.0
+Carlos Sainz,Mclaren,2019,6th,96.0,Lando Norris,21.0,0.0,0.0,1.0,0.0
+Carlos Sainz,Unknown,2018,10th,53.0,Nico Hulkenberg,21.0,0.0,0.0,0.0,0.0
+Carlos Sainz,Unknown,2017,9th,54.0,"Nico Hulkenberg , Daniil Kvyat , Pierre Gasly",20.0,0.0,0.0,0.0,0.0
+Carlos Sainz,Unknown,2016,12th,46.0,"Daniil Kvyat , Max Verstappen",21.0,0.0,0.0,0.0,0.0
+Carlos Sainz,Unknown,2015,15th,18.0,Max Verstappen,19.0,0.0,0.0,0.0,0.0
+Charles Leclerc,Ferrari,2024,2nd,131.0,"Carlos Sainz , Oliver Bearman",8.0,1.0,1.0,5.0,2.0
+Charles Leclerc,Ferrari,2023,5th,206.0,Carlos Sainz,22.0,0.0,5.0,6.0,0.0
+Charles Leclerc,Ferrari,2022,2nd,308.0,Carlos Sainz,22.0,3.0,9.0,11.0,3.0
+Charles Leclerc,Ferrari,2021,7th,159.0,Carlos Sainz,22.0,0.0,2.0,1.0,0.0
+Charles Leclerc,Ferrari,2020,8th,98.0,Sebastian Vettel,17.0,0.0,0.0,2.0,0.0
+Charles Leclerc,Ferrari,2019,4th,264.0,Sebastian Vettel,21.0,2.0,7.0,10.0,4.0
+Charles Leclerc,Unknown,2018,13th,39.0,Marcus Ericsson,21.0,0.0,0.0,0.0,0.0
+Oliver Bearman,Ferrari,2024,12th,6.0,Charles Leclerc,1.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Haas,2024,16th,1.0,Nico Hulkenberg,8.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Haas,2023,19th,3.0,Nico Hulkenberg,22.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Haas,2022,13th,27.0,Mick Schumacher,22.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Haas,2020,19th,2.0,"Romain Grosjean , Pietro Fittipaldi",17.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Haas,2019,16th,20.0,Romain Grosjean,21.0,0.0,0.0,0.0,1.0
+Kevin Magnussen,Haas,2018,9th,54.0,Romain Grosjean,21.0,0.0,0.0,0.0,1.0
+Kevin Magnussen,Haas,2017,14th,19.0,Romain Grosjean,20.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Unknown,2016,16th,7.0,Jolyon Palmer,21.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Mclaren,2015,0,0.0,Jenson Button,1.0,0.0,0.0,0.0,0.0
+Kevin Magnussen,Mclaren,2014,11th,55.0,Jenson Button,19.0,0.0,0.0,1.0,0.0
+Nico Hulkenberg,Haas,2024,13th,4.0,Kevin Magnussen,8.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Haas,2023,16th,9.0,Kevin Magnussen,22.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Aston,2022,22nd,0.0,Lance Stroll,2.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2020,15th,10.0,"Sergio Perez , Lance Stroll",3.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2019,14th,37.0,Daniel Ricciardo,21.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2018,7th,69.0,Carlos Sainz,21.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2017,10th,43.0,"Carlos Sainz , Jolyon Palmer",20.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2016,9th,72.0,Sergio Perez,21.0,0.0,0.0,0.0,1.0
+Nico Hulkenberg,Unknown,2015,10th,56.0,Sergio Perez,19.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2014,9th,96.0,Sergio Perez,19.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2013,10th,51.0,Esteban Gutierrez,19.0,0.0,0.0,0.0,0.0
+Nico Hulkenberg,Unknown,2012,11th,63.0,Paul di Resta,20.0,0.0,0.0,0.0,1.0
+Nico Hulkenberg,Williams,2010,14th,22.0,Rubens Barrichello,19.0,0.0,1.0,0.0,0.0
+Valtteri Bottas,Kick-sauber,2024,20th,0.0,Zhou Guanyu,8.0,0.0,0.0,0.0,0.0
+Valtteri Bottas,Unknown,2023,15th,10.0,Zhou Guanyu,22.0,0.0,0.0,0.0,0.0
+Valtteri Bottas,Unknown,2022,10th,49.0,Zhou Guanyu,22.0,0.0,0.0,0.0,0.0
+Valtteri Bottas,Mercedes,2021,3rd,226.0,Lewis Hamilton,22.0,1.0,4.0,11.0,4.0
+Valtteri Bottas,Mercedes,2020,2nd,223.0,"Lewis Hamilton , George Russell",17.0,2.0,5.0,11.0,2.0
+Valtteri Bottas,Mercedes,2019,2nd,326.0,Lewis Hamilton,21.0,4.0,5.0,15.0,3.0
+Valtteri Bottas,Mercedes,2018,5th,247.0,Lewis Hamilton,21.0,0.0,2.0,8.0,7.0
+Valtteri Bottas,Mercedes,2017,3rd,305.0,Lewis Hamilton,20.0,3.0,4.0,13.0,2.0
+Valtteri Bottas,Williams,2016,8th,85.0,Felipe Massa,21.0,0.0,0.0,1.0,0.0
+Valtteri Bottas,Williams,2015,5th,136.0,Felipe Massa,19.0,0.0,0.0,2.0,0.0
+Valtteri Bottas,Williams,2014,4th,186.0,Felipe Massa,19.0,0.0,0.0,6.0,1.0
+Valtteri Bottas,Williams,2013,17th,4.0,Pastor Maldonado,19.0,0.0,0.0,0.0,0.0
+Zhou Guanyu,Kick-sauber,2024,21st,0.0,Valtteri Bottas,8.0,0.0,0.0,0.0,0.0
+Zhou Guanyu,Unknown,2023,18th,6.0,Valtteri Bottas,22.0,0.0,0.0,0.0,1.0
+Zhou Guanyu,Unknown,2022,18th,6.0,Valtteri Bottas,22.0,0.0,0.0,0.0,1.0
+Lando Norris,Mclaren,2024,3rd,113.0,Oscar Piastri,8.0,1.0,0.0,4.0,0.0
+Lando Norris,Mclaren,2023,6th,205.0,Oscar Piastri,22.0,0.0,0.0,7.0,0.0
+Lando Norris,Mclaren,2022,7th,122.0,Daniel Ricciardo,22.0,0.0,0.0,1.0,2.0
+Lando Norris,Mclaren,2021,6th,160.0,Daniel Ricciardo,22.0,0.0,1.0,4.0,1.0
+Lando Norris,Mclaren,2020,9th,97.0,Carlos Sainz,17.0,0.0,0.0,1.0,2.0
+Lando Norris,Mclaren,2019,11th,49.0,Carlos Sainz,21.0,0.0,0.0,0.0,0.0
+Oscar Piastri,Mclaren,2024,6th,68.0,Lando Norris,8.0,0.0,0.0,1.0,1.0
+Oscar Piastri,Mclaren,2023,9th,97.0,Lando Norris,22.0,0.0,0.0,2.0,2.0
+George Russell,Mercedes,2024,7th,54.0,Lewis Hamilton,8.0,0.0,0.0,0.0,1.0
+George Russell,Mercedes,2023,8th,175.0,Lewis Hamilton,22.0,0.0,0.0,2.0,1.0
+George Russell,Mercedes,2022,4th,275.0,Lewis Hamilton,22.0,1.0,2.0,8.0,4.0
+George Russell,Williams,2021,15th,16.0,Nicholas Latifi,22.0,0.0,0.0,1.0,0.0
+George Russell,Williams,2020,18th,3.0,"Valtteri Bottas , Nicholas Latifi",17.0,0.0,0.0,0.0,1.0
+George Russell,Williams,2019,0,0.0,Robert Kubica,21.0,0.0,0.0,0.0,0.0
+Lewis Hamilton,Mercedes,2024,8th,42.0,George Russell,8.0,0.0,0.0,0.0,1.0
+Lewis Hamilton,Mercedes,2023,3rd,234.0,George Russell,22.0,0.0,1.0,6.0,3.0
+Lewis Hamilton,Mercedes,2022,6th,240.0,George Russell,22.0,0.0,0.0,9.0,2.0
+Lewis Hamilton,Mercedes,2021,2nd,387.5,Valtteri Bottas,22.0,8.0,5.0,17.0,6.0
+Lewis Hamilton,Mercedes,2020,1st,347.0,Valtteri Bottas,16.0,11.0,10.0,14.0,5.0
+Lewis Hamilton,Mercedes,2019,1st,413.0,Valtteri Bottas,21.0,11.0,5.0,17.0,6.0
+Lewis Hamilton,Mercedes,2018,1st,408.0,Valtteri Bottas,21.0,11.0,11.0,17.0,3.0
+Lewis Hamilton,Mercedes,2017,1st,363.0,Valtteri Bottas,20.0,9.0,11.0,13.0,7.0
+Lewis Hamilton,Mercedes,2016,2nd,380.0,Nico Rosberg,21.0,10.0,12.0,17.0,3.0
+Lewis Hamilton,Mercedes,2015,1st,381.0,Nico Rosberg,19.0,10.0,11.0,17.0,8.0
+Lewis Hamilton,Mercedes,2014,1st,384.0,Nico Rosberg,19.0,11.0,7.0,16.0,7.0
+Lewis Hamilton,Mercedes,2013,4th,189.0,Nico Rosberg,19.0,1.0,5.0,5.0,1.0
+Lewis Hamilton,Mclaren,2012,4th,190.0,Jenson Button,20.0,4.0,7.0,7.0,1.0
+Lewis Hamilton,Mclaren,2011,5th,227.0,Jenson Button,19.0,3.0,1.0,6.0,3.0
+Lewis Hamilton,Mclaren,2010,4th,240.0,Jenson Button,19.0,3.0,1.0,9.0,5.0
+Lewis Hamilton,Mclaren,2009,5th,49.0,Heikki Kovalainen,17.0,2.0,4.0,5.0,0.0
+Lewis Hamilton,Mclaren,2008,1st,98.0,Heikki Kovalainen,18.0,5.0,7.0,10.0,1.0
+Lewis Hamilton,Mclaren,2007,2nd,109.0,Fernando Alonso,17.0,4.0,6.0,12.0,2.0
+Daniel Ricciardo,Rb-honda,2024,18th,0.0,Yuki Tsunoda,8.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Unknown,2023,17th,6.0,Yuki Tsunoda,7.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Mclaren,2022,12th,37.0,Lando Norris,22.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Mclaren,2021,8th,115.0,Lando Norris,22.0,1.0,0.0,1.0,1.0
+Daniel Ricciardo,Unknown,2020,5th,119.0,Esteban Ocon,17.0,0.0,0.0,2.0,2.0
+Daniel Ricciardo,Unknown,2019,9th,54.0,Nico Hulkenberg,21.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Red_bull,2018,6th,170.0,Max Verstappen,21.0,2.0,2.0,2.0,4.0
+Daniel Ricciardo,Red_bull,2017,5th,200.0,Max Verstappen,20.0,1.0,0.0,9.0,1.0
+Daniel Ricciardo,Red_bull,2016,3rd,256.0,"Daniil Kvyat , Max Verstappen",21.0,1.0,1.0,8.0,4.0
+Daniel Ricciardo,Red_bull,2015,8th,92.0,Daniil Kvyat,19.0,0.0,0.0,2.0,3.0
+Daniel Ricciardo,Red_bull,2014,3rd,238.0,Sebastian Vettel,19.0,3.0,0.0,8.0,1.0
+Daniel Ricciardo,Unknown,2013,14th,20.0,Jean-Eric Vergne,19.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Unknown,2012,18th,10.0,Jean-Eric Vergne,20.0,0.0,0.0,0.0,0.0
+Daniel Ricciardo,Unknown,2011,0,0.0,"Narain Karthikeyan , Vitantonio Liuzzi",11.0,0.0,0.0,0.0,0.0
+Yuki Tsunoda,Rb-honda,2024,10th,18.0,Daniel Ricciardo,8.0,0.0,0.0,0.0,0.0
+Yuki Tsunoda,Unknown,2023,14th,17.0,"Daniel Ricciardo , Nyck De Vries , Liam Lawson",22.0,0.0,0.0,0.0,1.0
+Yuki Tsunoda,Unknown,2022,16th,13.0,Pierre Gasly,22.0,0.0,0.0,0.0,0.0
+Yuki Tsunoda,Unknown,2021,14th,32.0,Pierre Gasly,22.0,0.0,0.0,0.0,0.0
+Max Verstappen,Red_bull,2024,1st,161.0,Sergio Perez,8.0,5.0,7.0,6.0,2.0
+Max Verstappen,Red_bull,2023,1st,575.0,Sergio Perez,22.0,19.0,12.0,21.0,9.0
+Max Verstappen,Red_bull,2022,1st,454.0,Sergio Perez,22.0,15.0,7.0,17.0,5.0
+Max Verstappen,Red_bull,2021,1st,395.5,Sergio Perez,22.0,10.0,10.0,18.0,6.0
+Max Verstappen,Red_bull,2020,3rd,214.0,Alexander Albon,17.0,2.0,1.0,11.0,3.0
+Max Verstappen,Red_bull,2019,3rd,278.0,"Pierre Gasly , Alexander Albon",21.0,3.0,2.0,9.0,3.0
+Max Verstappen,Red_bull,2018,4th,249.0,Daniel Ricciardo,21.0,2.0,0.0,11.0,2.0
+Max Verstappen,Red_bull,2017,6th,168.0,Daniel Ricciardo,20.0,2.0,0.0,4.0,1.0
+Max Verstappen,Red_bull,2016,5th,204.0,"Daniel Ricciardo , Carlos Sainz",21.0,1.0,0.0,7.0,1.0
+Max Verstappen,Unknown,2015,12th,49.0,Carlos Sainz,19.0,0.0,0.0,0.0,0.0
+Sergio Perez,Red_bull,2024,5th,101.0,Max Verstappen,8.0,0.0,0.0,4.0,0.0
+Sergio Perez,Red_bull,2023,2nd,285.0,Max Verstappen,22.0,2.0,2.0,9.0,2.0
+Sergio Perez,Red_bull,2022,3rd,305.0,Max Verstappen,22.0,2.0,1.0,11.0,3.0
+Sergio Perez,Red_bull,2021,4th,190.0,Max Verstappen,22.0,1.0,0.0,5.0,2.0
+Sergio Perez,Unknown,2020,4th,125.0,"Nico Hulkenberg , Lance Stroll",15.0,1.0,0.0,2.0,0.0
+Sergio Perez,Unknown,2019,10th,52.0,Lance Stroll,21.0,0.0,0.0,0.0,0.0
+Sergio Perez,Unknown,2018,8th,62.0,Esteban Ocon,21.0,0.0,0.0,1.0,0.0
+Sergio Perez,Unknown,2017,7th,100.0,Esteban Ocon,20.0,0.0,0.0,0.0,1.0
+Sergio Perez,Unknown,2016,7th,101.0,Nico Hulkenberg,21.0,0.0,0.0,2.0,0.0
+Sergio Perez,Unknown,2015,9th,78.0,Nico Hulkenberg,19.0,0.0,0.0,1.0,0.0
+Sergio Perez,Unknown,2014,10th,59.0,Nico Hulkenberg,19.0,0.0,0.0,1.0,1.0
+Sergio Perez,Mclaren,2013,11th,49.0,Jenson Button,19.0,0.0,0.0,0.0,1.0
+Sergio Perez,Unknown,2012,10th,66.0,Kamui Kobayashi,20.0,0.0,0.0,3.0,1.0
+Sergio Perez,Unknown,2011,17th,14.0,Kamui Kobayashi,18.0,0.0,0.0,0.0,0.0
+Alexander Albon,Williams,2024,14th,2.0,Logan Sargeant,8.0,0.0,0.0,0.0,0.0
+Alexander Albon,Williams,2023,13th,27.0,Logan Sargeant,22.0,0.0,0.0,0.0,0.0
+Alexander Albon,Williams,2022,19th,4.0,Nicholas Latifi,21.0,0.0,0.0,0.0,0.0
+Alexander Albon,Red_bull,2020,7th,105.0,Max Verstappen,17.0,0.0,0.0,2.0,0.0
+Alexander Albon,Red_bull,2019,8th,92.0,"Daniil Kvyat , Max Verstappen",21.0,0.0,0.0,0.0,0.0
+Logan Sargeant,Williams,2024,19th,0.0,Alexander Albon,7.0,0.0,0.0,0.0,0.0
+Logan Sargeant,Williams,2023,21st,1.0,Alexander Albon,22.0,0.0,0.0,0.0,0.0
