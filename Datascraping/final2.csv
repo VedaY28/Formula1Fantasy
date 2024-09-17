@@ -1,0 +1,183 @@
+Driver,Team,Season,Champ Position,Points,Teammate(s),Race entries,Vict.,Poles,Podiums,FastLap
+Esteban Ocon,Alpine,2024,15th,1,Pierre Gasly,8,0,0,0,0
+Pierre Gasly,Alpine,2024,17th,1,Esteban Ocon,8,0,0,0,0
+Fernando Alonso,Aston,2024,9th,33,Lance Stroll,8,0,0,0,1
+Lance Stroll,Aston,2024,11th,11,Fernando Alonso,8,0,0,0,0
+Carlos Sainz,Ferrari,2024,4th,104,Charles Leclerc,7,1,0,4,0
+Charles Leclerc,Ferrari,2024,2nd,131,"Carlos Sainz , Oliver Bearman",8,1,1,5,2
+Oliver Bearman,Ferrari,2024,12th,6,Charles Leclerc,1,0,0,0,0
+Kevin Magnussen,Haas,2024,16th,1,Nico Hulkenberg,8,0,0,0,0
+Nico Hulkenberg,Haas,2024,13th,4,Kevin Magnussen,8,0,0,0,0
+Valtteri Bottas,Kick-sauber,2024,20th,0,Zhou Guanyu,8,0,0,0,0
+Zhou Guanyu,Kick-sauber,2024,21st,0,Valtteri Bottas,8,0,0,0,0
+Lando Norris,Mclaren,2024,3rd,113,Oscar Piastri,8,1,0,4,0
+Oscar Piastri,Mclaren,2024,6th,68,Lando Norris,8,0,0,1,1
+George Russell,Mercedes,2024,7th,54,Lewis Hamilton,8,0,0,0,1
+Lewis Hamilton,Mercedes,2024,8th,42,George Russell,8,0,0,0,1
+Daniel Ricciardo,Rb-honda,2024,18th,0,Yuki Tsunoda,8,0,0,0,0
+Yuki Tsunoda,Rb-honda,2024,10th,18,Daniel Ricciardo,8,0,0,0,0
+Max Verstappen,Red_bull,2024,1st,161,Sergio Perez,8,5,7,6,2
+Sergio Perez,Red_bull,2024,5th,101,Max Verstappen,8,0,0,4,0
+Alexander Albon,Williams,2024,14th,2,Logan Sargeant,8,0,0,0,0
+Logan Sargeant,Williams,2024,19th,0,Alexander Albon,7,0,0,0,0
+Esteban Ocon,Alpine,2023,12th,58,Pierre Gasly,22,0,0,1,0
+Pierre Gasly,Alpine,2023,11th,62,Esteban Ocon,22,0,0,1,0
+Fernando Alonso,Aston,2023,4th,206,Lance Stroll,22,0,0,8,1
+Lance Stroll,Aston,2023,10th,74,Fernando Alonso,22,0,0,0,0
+Carlos Sainz,Ferrari,2023,7th,200,Charles Leclerc,22,1,2,3,0
+Charles Leclerc,Ferrari,2023,5th,206,Carlos Sainz,22,0,5,6,0
+Kevin Magnussen,Haas,2023,19th,3,Nico Hulkenberg,22,0,0,0,0
+Nico Hulkenberg,Haas,2023,16th,9,Kevin Magnussen,22,0,0,0,0
+Valtteri Bottas,Alfa Romeo,2023,15th,10,Zhou Guanyu,22,0,0,0,0
+Zhou Guanyu,Alfa Romeo,2023,18th,6,Valtteri Bottas,22,0,0,0,1
+Lando Norris,Mclaren,2023,6th,205,Oscar Piastri,22,0,0,7,0
+Oscar Piastri,Mclaren,2023,9th,97,Lando Norris,22,0,0,2,2
+George Russell,Mercedes,2023,8th,175,Lewis Hamilton,22,0,0,2,1
+Lewis Hamilton,Mercedes,2023,3rd,234,George Russell,22,0,1,6,3
+Daniel Ricciardo,Alpha Tauri,2023,17th,6,Yuki Tsunoda,7,0,0,0,0
+Yuki Tsunoda,Alpha Tauri,2023,14th,17,"Daniel Ricciardo , Nyck De Vries , Liam Lawson",22,0,0,0,1
+Max Verstappen,Red_bull,2023,1st,575,Sergio Perez,22,19,12,21,9
+Sergio Perez,Red_bull,2023,2nd,285,Max Verstappen,22,2,2,9,2
+Alexander Albon,Williams,2023,13th,27,Logan Sargeant,22,0,0,0,0
+Logan Sargeant,Williams,2023,21st,1,Alexander Albon,22,0,0,0,0
+Esteban Ocon,Alpine,2022,8th,93,Fernando Alonso,22,0,0,0,0
+Pierre Gasly,Alpha Tauri,2022,14th,23,Yuki Tsunoda,22,0,0,0,0
+Fernando Alonso,Alpine,2022,9th,75,Esteban Ocon,22,0,0,0,0
+Lance Stroll,Aston,2022,15th,18,"Nico Hulkenberg , Sebastian Vettel",22,0,0,0,0
+Carlos Sainz,Ferrari,2022,5th,246,Charles Leclerc,22,1,3,9,2
+Charles Leclerc,Ferrari,2022,2nd,308,Carlos Sainz,22,3,9,11,3
+Kevin Magnussen,Haas,2022,13th,27,Mick Schumacher,22,0,0,0,0
+Nico Hulkenberg,Aston,2022,22nd,0,Lance Stroll,2,0,0,0,0
+Valtteri Bottas,Alfa Romeo,2022,10th,49,Zhou Guanyu,22,0,0,0,0
+Zhou Guanyu,Alfa Romeo,2022,18th,6,Valtteri Bottas,22,0,0,0,1
+Lando Norris,Mclaren,2022,7th,122,Daniel Ricciardo,22,0,0,1,2
+George Russell,Mercedes,2022,4th,275,Lewis Hamilton,22,1,2,8,4
+Lewis Hamilton,Mercedes,2022,6th,240,George Russell,22,0,0,9,2
+Daniel Ricciardo,Mclaren,2022,12th,37,Lando Norris,22,0,0,0,0
+Yuki Tsunoda,Alpha Tauri,2022,16th,13,Pierre Gasly,22,0,0,0,0
+Max Verstappen,Red_bull,2022,1st,454,Sergio Perez,22,15,7,17,5
+Sergio Perez,Red_bull,2022,3rd,305,Max Verstappen,22,2,1,11,3
+Alexander Albon,Williams,2022,19th,4,Nicholas Latifi,21,0,0,0,0
+Esteban Ocon,Alpine,2021,11th,74,Fernando Alonso,22,1,0,1,0
+Pierre Gasly,Alpha Tauri,2021,9th,110,Yuki Tsunoda,22,0,0,1,1
+Fernando Alonso,Alpine,2021,10th,81,Esteban Ocon,22,0,0,1,0
+Lance Stroll,Aston,2021,13th,34,Sebastian Vettel,22,0,0,0,0
+Carlos Sainz,Ferrari,2021,5th,164,Charles Leclerc,22,0,0,4,0
+Charles Leclerc,Ferrari,2021,7th,159,Carlos Sainz,22,0,2,1,0
+Valtteri Bottas,Mercedes,2021,3rd,226,Lewis Hamilton,22,1,4,11,4
+Lando Norris,Mclaren,2021,6th,160,Daniel Ricciardo,22,0,1,4,1
+George Russell,Williams,2021,15th,16,Nicholas Latifi,22,0,0,1,0
+Lewis Hamilton,Mercedes,2021,2nd,387,Valtteri Bottas,22,8,5,17,6
+Daniel Ricciardo,Mclaren,2021,8th,115,Lando Norris,22,1,0,1,1
+Yuki Tsunoda,Alpha Tauri,2021,14th,32,Pierre Gasly,22,0,0,0,0
+Max Verstappen,Red_bull,2021,1st,395,Sergio Perez,22,10,10,18,6
+Sergio Perez,Red_bull,2021,4th,190,Max Verstappen,22,1,0,5,2
+Esteban Ocon,Renault,2020,12th,62,Daniel Ricciardo,17,0,0,1,0
+Pierre Gasly,Alpha Tauri,2020,10th,75,Daniil Kvyat,17,1,0,1,0
+Lance Stroll,Racing Point,2020,11th,75,"Nico Hulkenberg , Sergio Perez",16,0,1,2,0
+Carlos Sainz,Mclaren,2020,6th,104,Lando Norris,17,0,0,1,1
+Charles Leclerc,Ferrari,2020,8th,98,Sebastian Vettel,17,0,0,2,0
+Kevin Magnussen,Haas,2020,19th,2,"Romain Grosjean , Pietro Fittipaldi",17,0,0,0,0
+Nico Hulkenberg,Racing Point,2020,15th,10,"Sergio Perez , Lance Stroll",3,0,0,0,0
+Valtteri Bottas,Mercedes,2020,2nd,223,"Lewis Hamilton , George Russell",17,2,5,11,2
+Lando Norris,Mclaren,2020,9th,97,Carlos Sainz,17,0,0,1,2
+George Russell,Williams,2020,18th,3,"Valtteri Bottas , Nicholas Latifi",17,0,0,0,1
+Lewis Hamilton,Mercedes,2020,1st,347,Valtteri Bottas,16,11,10,14,5
+Daniel Ricciardo,Renault,2020,5th,119,Esteban Ocon,17,0,0,2,2
+Max Verstappen,Red_bull,2020,3rd,214,Alexander Albon,17,2,1,11,3
+Sergio Perez,Racing Point,2020,4th,125,"Nico Hulkenberg , Lance Stroll",15,1,0,2,0
+Alexander Albon,Red_bull,2020,7th,105,Max Verstappen,17,0,0,2,0
+Pierre Gasly,Red_bull,2019,7th,95,"Daniil Kvyat , Max Verstappen",21,0,0,1,2
+Lance Stroll,Racing Point,2019,15th,21,Sergio Perez,21,0,0,0,0
+Carlos Sainz,Mclaren,2019,6th,96,Lando Norris,21,0,0,1,0
+Charles Leclerc,Ferrari,2019,4th,264,Sebastian Vettel,21,2,7,10,4
+Kevin Magnussen,Haas,2019,16th,20,Romain Grosjean,21,0,0,0,1
+Nico Hulkenberg,Renault,2019,14th,37,Daniel Ricciardo,21,0,0,0,0
+Valtteri Bottas,Mercedes,2019,2nd,326,Lewis Hamilton,21,4,5,15,3
+Lando Norris,Mclaren,2019,11th,49,Carlos Sainz,21,0,0,0,0
+George Russell,Williams,2019,0,0,Robert Kubica,21,0,0,0,0
+Lewis Hamilton,Mercedes,2019,1st,413,Valtteri Bottas,21,11,5,17,6
+Daniel Ricciardo,Renault,2019,9th,54,Nico Hulkenberg,21,0,0,0,0
+Max Verstappen,Red_bull,2019,3rd,278,"Pierre Gasly , Alexander Albon",21,3,2,9,3
+Sergio Perez,Racing Point,2019,10th,52,Lance Stroll,21,0,0,0,0
+Alexander Albon,Red_bull,2019,8th,92,"Daniil Kvyat , Max Verstappen",21,0,0,0,0
+Esteban Ocon,Force India,2018,12th,49,Sergio Perez,21,0,0,0,0
+Pierre Gasly,Toro Rosso,2018,15th,29,Brendon Hartley,21,0,0,0,0
+Fernando Alonso,Mclaren,2018,11th,50,Stoffel Vandoorne,21,0,0,0,0
+Lance Stroll,Williams,2018,18th,6,Sergey Sirotkin,21,0,0,0,0
+Carlos Sainz,Renault,2018,10th,53,Nico Hulkenberg,21,0,0,0,0
+Charles Leclerc,Sauber,2018,13th,39,Marcus Ericsson,21,0,0,0,0
+Kevin Magnussen,Haas,2018,9th,54,Romain Grosjean,21,0,0,0,1
+Nico Hulkenberg,Renault,2018,7th,69,Carlos Sainz,21,0,0,0,0
+Valtteri Bottas,Mercedes,2018,5th,247,Lewis Hamilton,21,0,2,8,7
+Lewis Hamilton,Mercedes,2018,1st,408,Valtteri Bottas,21,11,11,17,3
+Daniel Ricciardo,Red_bull,2018,6th,170,Max Verstappen,21,2,2,2,4
+Max Verstappen,Red_bull,2018,4th,249,Daniel Ricciardo,21,2,0,11,2
+Sergio Perez,Force India,2018,8th,62,Esteban Ocon,21,0,0,1,0
+Esteban Ocon,Force India,2017,8th,87,Sergio Perez,20,0,0,0,0
+Pierre Gasly,Toro Rosso,2017,0,0,"Carlos Sainz , Brendon Hartley",5,0,0,0,0
+Fernando Alonso,Mclaren,2017,15th,17,Stoffel Vandoorne,19,0,0,0,1
+Lance Stroll,Williams,2017,12th,40,"Felipe Massa , Paul di Resta",20,0,0,1,0
+Carlos Sainz,Toro Rosso,2017,9th,54,"Nico Hulkenberg , Daniil Kvyat , Pierre Gasly",20,0,0,0,0
+Kevin Magnussen,Haas,2017,14th,19,Romain Grosjean,20,0,0,0,0
+Nico Hulkenberg,Renault,2017,10th,43,"Carlos Sainz , Jolyon Palmer",20,0,0,0,0
+Valtteri Bottas,Mercedes,2017,3rd,305,Lewis Hamilton,20,3,4,13,2
+Lewis Hamilton,Mercedes,2017,1st,363,Valtteri Bottas,20,9,11,13,7
+Daniel Ricciardo,Red_bull,2017,5th,200,Max Verstappen,20,1,0,9,1
+Max Verstappen,Red_bull,2017,6th,168,Daniel Ricciardo,20,2,0,4,1
+Sergio Perez,Force India,2017,7th,100,Esteban Ocon,20,0,0,0,1
+Esteban Ocon,Manor,2016,0,0,Pascal Wehrlein,9,0,0,0,0
+Fernando Alonso,Mclaren,2016,10th,54,Jenson Button,20,0,0,0,1
+Carlos Sainz,Toro Rosso,2016,12th,46,"Daniil Kvyat , Max Verstappen",21,0,0,0,0
+Kevin Magnussen,Renault,2016,16th,7,Jolyon Palmer,21,0,0,0,0
+Nico Hulkenberg,Force India,2016,9th,72,Sergio Perez,21,0,0,0,1
+Valtteri Bottas,Williams,2016,8th,85,Felipe Massa,21,0,0,1,0
+Lewis Hamilton,Mercedes,2016,2nd,380,Nico Rosberg,21,10,12,17,3
+Daniel Ricciardo,Red_bull,2016,3rd,256,"Daniil Kvyat , Max Verstappen",21,1,1,8,4
+Max Verstappen,Red_bull,2016,5th,204,"Daniel Ricciardo , Carlos Sainz",21,1,0,7,1
+Sergio Perez,Force India,2016,7th,101,Nico Hulkenberg,21,0,0,2,0
+Fernando Alonso,Mclaren,2015,17th,11,Jenson Button,18,0,0,0,0
+Carlos Sainz,Toro Rosso,2015,15th,18,Max Verstappen,19,0,0,0,0
+Kevin Magnussen,Mclaren,2015,0,0,Jenson Button,1,0,0,0,0
+Nico Hulkenberg,Force India,2015,10th,56,Sergio Perez,19,0,0,0,0
+Valtteri Bottas,Williams,2015,5th,136,Felipe Massa,19,0,0,2,0
+Lewis Hamilton,Mercedes,2015,1st,381,Nico Rosberg,19,10,11,17,8
+Daniel Ricciardo,Red_bull,2015,8th,92,Daniil Kvyat,19,0,0,2,3
+Max Verstappen,Toro Rosso,2015,12th,49,Carlos Sainz,19,0,0,0,0
+Sergio Perez,Force India,2015,9th,78,Nico Hulkenberg,19,0,0,1,0
+Fernando Alonso,Ferrari,2014,6th,161,Kimi Raikkonen,19,0,0,2,0
+Kevin Magnussen,Mclaren,2014,11th,55,Jenson Button,19,0,0,1,0
+Nico Hulkenberg,Force India,2014,9th,96,Sergio Perez,19,0,0,0,0
+Valtteri Bottas,Williams,2014,4th,186,Felipe Massa,19,0,0,6,1
+Lewis Hamilton,Mercedes,2014,1st,384,Nico Rosberg,19,11,7,16,7
+Daniel Ricciardo,Red_bull,2014,3rd,238,Sebastian Vettel,19,3,0,8,1
+Sergio Perez,Force India,2014,10th,59,Nico Hulkenberg,19,0,0,1,1
+Fernando Alonso,Ferrari,2013,2nd,242,Felipe Massa,19,2,0,9,2
+Nico Hulkenberg,Sauber,2013,10th,51,Esteban Gutierrez,19,0,0,0,0
+Valtteri Bottas,Williams,2013,17th,4,Pastor Maldonado,19,0,0,0,0
+Lewis Hamilton,Mercedes,2013,4th,189,Nico Rosberg,19,1,5,5,1
+Daniel Ricciardo,Toro Rosso,2013,14th,20,Jean-Eric Vergne,19,0,0,0,0
+Sergio Perez,Mclaren,2013,11th,49,Jenson Button,19,0,0,0,1
+Fernando Alonso,Ferrari,2012,2nd,278,Felipe Massa,20,3,2,13,0
+Nico Hulkenberg,Force India,2012,11th,63,Paul di Resta,20,0,0,0,1
+Lewis Hamilton,Mclaren,2012,4th,190,Jenson Button,20,4,7,7,1
+Daniel Ricciardo,Toro Rosso,2012,18th,10,Jean-Eric Vergne,20,0,0,0,0
+Sergio Perez,Sauber,2012,10th,66,Kamui Kobayashi,20,0,0,3,1
+Fernando Alonso,Ferrari,2011,4th,257,Felipe Massa,19,1,0,10,1
+Lewis Hamilton,Mclaren,2011,5th,227,Jenson Button,19,3,1,6,3
+Daniel Ricciardo,HRT,2011,0,0,"Narain Karthikeyan , Vitantonio Liuzzi",11,0,0,0,0
+Sergio Perez,Sauber,2011,17th,14,Kamui Kobayashi,18,0,0,0,0
+Fernando Alonso,Ferrari,2010,2nd,252,Felipe Massa,19,5,2,10,5
+Nico Hulkenberg,Williams,2010,14th,22,Rubens Barrichello,19,0,1,0,0
+Lewis Hamilton,Mclaren,2010,4th,240,Jenson Button,19,3,1,9,5
+Fernando Alonso,Renault,2009,9th,26,"Nelsinho Piquet , Romain Grosjean",17,0,1,1,2
+Lewis Hamilton,Mclaren,2009,5th,49,Heikki Kovalainen,17,2,4,5,0
+Fernando Alonso,Renault,2008,5th,61,Nelsinho Piquet,18,2,0,3,0
+Lewis Hamilton,Mclaren,2008,1st,98,Heikki Kovalainen,18,5,7,10,1
+Fernando Alonso,Mclaren,2007,3rd,109,Lewis Hamilton,17,4,2,12,3
+Lewis Hamilton,Mclaren,2007,2nd,109,Fernando Alonso,17,4,6,12,2
+Fernando Alonso,Renault,2006,1st,134,Giancarlo Fisichella,18,7,6,14,5
+Fernando Alonso,Renault,2005,1st,133,Giancarlo Fisichella,19,7,6,15,2
+Fernando Alonso,Renault,2004,4th,59,"Jacques Villeneuve , Jarno Trulli",18,0,1,4,0
+Fernando Alonso,Renault,2003,6th,55,Jarno Trulli,16,1,2,4,1
+Fernando Alonso,Minardi,2001,0,0,"Tarso Marques , Alex Yoong",17,0,0,0,0

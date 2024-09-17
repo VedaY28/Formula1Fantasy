@@ -1,0 +1,243 @@
+Team,Driver(s),Season,Champ Position,Points,GPs,Vict.,Pole,Podiums,FastLap
+Alpine,"Esteban Ocon,Pierre Gasly",2024,8.0,2.0,8,0.0,0.0,0.0,0.0
+Alpine,"Esteban Ocon,Pierre Gasly",2023,6.0,110.0,22,0.0,0.0,2.0,0.0
+Alpine,"Esteban Ocon,Fernando Alonso",2022,4.0,165.0,22,0.0,0.0,0.0,0.0
+Alpine,"Esteban Ocon,Fernando Alonso",2021,5.0,155.0,22,1.0,0.0,2.0,0.0
+Aston,"Fernando Alonso,Lance Stroll",2024,5.0,44.0,8,0.0,0.0,0.0,1.0
+Aston,"Fernando Alonso,Lance Stroll",2023,4.0,266.0,22,0.0,0.0,8.0,1.0
+Aston,"Sebastian Vettel,Lance Stroll,Nico Hulkenberg",2022,6.0,57.0,22,0.0,0.0,0.0,0.0
+Aston,"Lance Stroll,Sebastian Vettel",2021,7.0,77.0,22,0.0,0.0,1.0,0.0
+Aston,"Maurice Trintignant,Roy Salvadori",1960,0.0,0.0,1,0.0,0.0,0.0,0.0
+Aston,"Carroll Shelby,Roy Salvadori",1959,0.0,0.0,4,0.0,0.0,0.0,0.0
+Aston,Bill Aston,1952,0.0,0.0,2,0.0,0.0,0.0,0.0
+Ferrari,"Oliver Bearman,Carlos Sainz,Charles Leclerc",2024,2.0,232.0,8,2.0,1.0,9.0,2.0
+Ferrari,"Carlos Sainz,Charles Leclerc",2023,3.0,363.0,22,1.0,7.0,9.0,0.0
+Ferrari,"Carlos Sainz,Charles Leclerc",2022,2.0,519.0,22,4.0,12.0,20.0,5.0
+Ferrari,"Carlos Sainz,Charles Leclerc",2021,3.0,322.5,22,0.0,2.0,5.0,0.0
+Ferrari,"Charles Leclerc,Sebastian Vettel",2020,6.0,131.0,17,0.0,0.0,3.0,0.0
+Ferrari,"Charles Leclerc,Sebastian Vettel",2019,2.0,504.0,21,3.0,9.0,19.0,6.0
+Ferrari,"Kimi Raikkonen,Sebastian Vettel",2018,2.0,571.0,21,6.0,6.0,24.0,4.0
+Ferrari,"Kimi Raikkonen,Sebastian Vettel",2017,2.0,522.0,20,5.0,5.0,20.0,7.0
+Ferrari,"Kimi Raikkonen,Sebastian Vettel",2016,3.0,398.0,21,0.0,0.0,11.0,4.0
+Ferrari,"Kimi Raikkonen,Sebastian Vettel",2015,2.0,428.0,19,3.0,1.0,16.0,3.0
+Ferrari,"Fernando Alonso,Kimi Raikkonen",2014,4.0,216.0,19,0.0,0.0,2.0,1.0
+Ferrari,"Felipe Massa,Fernando Alonso",2013,3.0,354.0,19,2.0,0.0,10.0,2.0
+Ferrari,"Felipe Massa,Fernando Alonso",2012,2.0,400.0,20,3.0,2.0,15.0,0.0
+Ferrari,"Felipe Massa,Fernando Alonso",2011,3.0,375.0,19,1.0,0.0,10.0,3.0
+Ferrari,"Felipe Massa,Fernando Alonso",2010,3.0,396.0,19,5.0,2.0,15.0,5.0
+Ferrari,"Giancarlo Fisichella,Luca Badoer,Felipe Massa,Kimi Raikkonen",2009,4.0,70.0,17,1.0,0.0,6.0,1.0
+Ferrari,"Felipe Massa,Kimi Raikkonen",2008,1.0,172.0,18,8.0,8.0,19.0,13.0
+Ferrari,"Felipe Massa,Kimi Raikkonen",2007,1.0,204.0,17,9.0,9.0,22.0,12.0
+Ferrari,"Felipe Massa,Michael Schumacher",2006,2.0,201.0,18,9.0,7.0,19.0,9.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2005,3.0,100.0,19,1.0,1.0,9.0,3.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2004,1.0,262.0,18,15.0,12.0,29.0,14.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2003,1.0,158.0,16,8.0,8.0,16.0,8.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2002,1.0,221.0,17,15.0,10.0,27.0,12.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2001,1.0,179.0,17,9.0,11.0,24.0,3.0
+Ferrari,"Michael Schumacher,Rubens Barrichello",2000,1.0,170.0,17,10.0,10.0,21.0,5.0
+Ferrari,"Mika Salo,Eddie Irvine,Michael Schumacher",1999,1.0,128.0,16,6.0,3.0,17.0,6.0
+Ferrari,"Eddie Irvine,Michael Schumacher",1998,2.0,133.0,16,6.0,3.0,19.0,6.0
+Ferrari,"Eddie Irvine,Michael Schumacher",1997,2.0,102.0,17,5.0,3.0,13.0,3.0
+Ferrari,"Eddie Irvine,Michael Schumacher",1996,2.0,70.0,16,3.0,4.0,9.0,2.0
+Ferrari,"Gerhard Berger,Jean Alesi",1995,3.0,73.0,17,1.0,1.0,11.0,3.0
+Ferrari,"Nicola Larini,Gerhard Berger,Jean Alesi",1994,3.0,71.0,16,1.0,3.0,11.0,0.0
+Ferrari,"Gerhard Berger,Jean Alesi",1993,4.0,28.0,16,0.0,0.0,3.0,0.0
+Ferrari,"Nicola Larini,Ivan Capelli,Jean Alesi",1992,4.0,21.0,16,0.0,0.0,2.0,0.0
+Ferrari,"Gianni Morbidelli,Alain Prost,Jean Alesi",1991,3.0,55.5,16,0.0,0.0,8.0,2.0
+Ferrari,"Alain Prost,Nigel Mansell",1990,2.0,110.0,16,6.0,3.0,14.0,5.0
+Ferrari,"Gerhard Berger,Nigel Mansell",1989,3.0,59.0,16,3.0,0.0,9.0,4.0
+Ferrari,"Gerhard Berger,Michele Alboreto",1988,2.0,65.0,16,1.0,1.0,8.0,4.0
+Ferrari,"Gerhard Berger,Michele Alboreto",1987,4.0,53.0,16,2.0,3.0,6.0,3.0
+Ferrari,"Michele Alboreto,Stefan Johansson",1986,4.0,37.0,16,0.0,0.0,5.0,0.0
+Ferrari,"Stefan Johansson,Michele Alboreto,Rene Arnoux",1985,2.0,82.0,16,2.0,1.0,10.0,2.0
+Ferrari,"Michele Alboreto,Rene Arnoux",1984,2.0,57.5,16,1.0,1.0,8.0,2.0
+Ferrari,"Patrick Tambay,Rene Arnoux",1983,1.0,89.0,15,4.0,8.0,12.0,3.0
+Ferrari,"Mario Andretti,Patrick Tambay,Didier Pironi,Gilles Villeneuve",1982,1.0,74.0,16,3.0,3.0,11.0,2.0
+Ferrari,"Didier Pironi,Gilles Villeneuve",1981,5.0,34.0,15,2.0,1.0,3.0,2.0
+Ferrari,"Gilles Villeneuve,Jody Scheckter",1980,10.0,8.0,14,0.0,0.0,0.0,0.0
+Ferrari,"Gilles Villeneuve,Jody Scheckter",1979,1.0,113.0,15,6.0,2.0,13.0,6.0
+Ferrari,"Carlos Reutemann,Gilles Villeneuve",1978,2.0,58.0,16,5.0,2.0,9.0,3.0
+Ferrari,"Gilles Villeneuve,Carlos Reutemann,Niki Lauda",1977,1.0,95.0,17,4.0,2.0,16.0,3.0
+Ferrari,"Carlos Reutemann,Clay Regazzoni,Niki Lauda",1976,1.0,83.0,15,6.0,4.0,13.0,7.0
+Ferrari,"Clay Regazzoni,Niki Lauda",1975,1.0,72.5,14,6.0,9.0,11.0,6.0
+Ferrari,"Clay Regazzoni,Niki Lauda",1974,2.0,65.0,15,3.0,10.0,12.0,6.0
+Ferrari,"Arturo Merzario,Jacky Ickx",1973,6.0,12.0,13,0.0,0.0,0.0,0.0
+Ferrari,"Arturo Merzario,Nanni Galli,Clay Regazzoni,Jacky Ickx,Mario Andretti",1972,4.0,33.0,12,1.0,4.0,6.0,3.0
+Ferrari,"Clay Regazzoni,Jacky Ickx,Mario Andretti",1971,3.0,33.0,11,2.0,3.0,7.0,4.0
+Ferrari,"Clay Regazzoni,Ignazio Giunti,Jacky Ickx",1970,2.0,52.0,13,4.0,5.0,9.0,8.0
+Ferrari,"Ernesto Brambilla,Pedro Rodriguez,Chris Amon",1969,6.0,7.0,10,0.0,0.0,1.0,0.0
+Ferrari,"Derek Bell,Andrea de Adamich,Chris Amon,Jacky Ickx",1968,4.0,32.0,11,1.0,4.0,5.0,0.0
+Ferrari,"Jonathan Williams,Ludovico Scarfiotti,Mike Parkes,Chris Amon,Lorenzo Bandini",1967,5.0,20.0,10,0.0,0.0,4.0,0.0
+Ferrari,"Giancarlo Baghetti,Ludovico Scarfiotti,Mike Parkes,John Surtees,Lorenzo Bandini",1966,2.0,31.0,7,2.0,3.0,6.0,4.0
+Ferrari,"Ludovico Scarfiotti,Bob Bondurant,Pedro Rodriguez,Nino Vaccarella,John Surtees,Lorenzo Bandini",1965,4.0,26.0,10,0.0,0.0,4.0,0.0
+Ferrari,"Pedro Rodriguez,Ludovico Scarfiotti,John Surtees,Lorenzo Bandini",1964,1.0,45.0,10,3.0,2.0,10.0,2.0
+Ferrari,"Lorenzo Bandini,Ludovico Scarfiotti,John Surtees,Willy Mairesse",1963,4.0,26.0,10,1.0,1.0,3.0,3.0
+Ferrari,"Lorenzo Bandini,Willy Mairesse,Giancarlo Baghetti,Phil Hill,Ricardo Rodriguez",1962,6.0,18.0,6,0.0,0.0,4.0,0.0
+Ferrari,"Ricardo Rodriguez,Willy Mairesse,Giancarlo Baghetti,Olivier Gendebien,Phil Hill,Richie Ginther,Wolfgang von Trips",1961,1.0,40.0,7,5.0,6.0,14.0,5.0
+Ferrari,"Willy Mairesse,Richie Ginther,Cliff Allison,Jose Froilan Gonzalez,Phil Hill,Wolfgang von Trips",1960,3.0,26.0,8,1.0,1.0,5.0,2.0
+Ferrari,"Wolfgang von Trips,Dan Gurney,Olivier Gendebien,Cliff Allison,Jean Behra,Phil Hill,Tony Brooks",1959,2.0,32.0,7,2.0,2.0,9.0,2.0
+Ferrari,"Phil Hill,Olivier Gendebien,Wolfgang von Trips,Luigi Musso,Mike Hawthorn,Peter Collins",1958,2.0,40.0,10,2.0,4.0,14.0,6.0
+Ferrari,"Wolfgang von Trips,Maurice Trintignant,Alessandro de Tomaso,Alfonso de Portago,Cesare Perdisa,Eugenio Castellotti,Jose Froilan Gonzalez,Luigi Musso,Mike Hawthorn,Peter Collins",1957,0.0,0.0,7,0.0,0.0,7.0,1.0
+Ferrari,"Wolfgang von Trips,Giorgio Scarlatti,Alfonso de Portago,Andre Pilette,Paul Frere,Peter Collins,Eugenio Castellotti,Juan Manuel Fangio,Luigi Musso,Olivier Gendebien",1956,0.0,0.0,7,6.0,7.0,14.0,4.0
+Ferrari,"Luigi Villoresi,Umberto Maglioli,Eugenio Castellotti,Johnny Claes,Mike Hawthorn,Harry Schell,Paul Frere,Piero Taruffi,Giuseppe Farina,Jose Froilan Gonzalez,Maurice Trintignant",1955,0.0,0.0,6,1.0,1.0,9.0,0.0
+Ferrari,"Alberto Ascari,Piero Taruffi,Reg Parnell,Robert Manzon,Jacques Swaters,Giuseppe Farina,Jose Froilan Gonzalez,Louis Rosier,Maurice Trintignant,Mike Hawthorn,Umberto Maglioli",1954,0.0,0.0,8,2.0,3.0,14.0,4.0
+Ferrari,"Piero Carini,Umberto Maglioli,Max de Terra,Peter Hirt,Kurt Adolff,Charles de Tornaco,Jacques Swaters,Louis Rosier,Alberto Ascari,Giuseppe Farina,Luigi Villoresi,Mike Hawthorn",1953,0.0,0.0,8,7.0,6.0,16.0,6.0
+Ferrari,"Luigi Villoresi,Roger Laurent,Rudolf Schoeller,Peter Whitehead,Roy Salvadori,Gianfranco Comotti,Piero Carini,Charles de Tornaco,Alberto Ascari,Andre Simon,Giuseppe Farina,Louis Rosier,Maurice Trintignant,Peter Hirt,Piero Taruffi,Rudi Fischer",1952,0.0,0.0,8,7.0,7.0,17.0,7.0
+Ferrari,"Francisco Landi,Jose Froilan Gonzalez,Alberto Ascari,Luigi Villoresi,Peter Whitehead,Piero Taruffi,Rudi Fischer",1951,0.0,0.0,7,3.0,3.0,13.0,0.0
+Ferrari,"Dorino Serafini,Peter Whitehead,Alberto Ascari,Luigi Villoresi,Raymond Sommer",1950,0.0,0.0,5,0.0,0.0,4.0,0.0
+Haas,"Kevin Magnussen,Nico Hulkenberg",2024,7.0,5.0,8,0.0,0.0,0.0,0.0
+Haas,"Kevin Magnussen,Nico Hulkenberg",2023,10.0,9.0,22,0.0,0.0,0.0,0.0
+Haas,"Kevin Magnussen,Mick Schumacher",2022,9.0,35.0,22,0.0,0.0,0.0,0.0
+Haas,"Mick Schumacher,Nikita Mazepin",2021,10.0,0.0,22,0.0,0.0,0.0,0.0
+Haas,"Pietro Fittipaldi,Kevin Magnussen,Romain Grosjean",2020,9.0,4.0,17,0.0,0.0,0.0,0.0
+Haas,"Kevin Magnussen,Romain Grosjean",2019,9.0,28.0,21,0.0,0.0,0.0,1.0
+Haas,"Kevin Magnussen,Romain Grosjean",2018,5.0,93.0,21,0.0,0.0,0.0,1.0
+Haas,"Kevin Magnussen,Romain Grosjean",2017,8.0,47.0,20,0.0,0.0,0.0,0.0
+Haas,"Esteban Gutierrez,Romain Grosjean",2016,8.0,29.0,21,0.0,0.0,0.0,0.0
+Kick-sauber,"Valtteri Bottas,Zhou Guanyu",2024,10.0,0.0,8,0.0,0.0,0.0,0.0
+Mclaren,"Lando Norris,Oscar Piastri",2024,3.0,176.0,8,1.0,0.0,5.0,1.0
+Mclaren,"Lando Norris,Oscar Piastri",2023,5.0,266.0,22,0.0,0.0,9.0,2.0
+Mclaren,"Daniel Ricciardo,Lando Norris",2022,5.0,150.0,22,0.0,0.0,1.0,2.0
+Mclaren,"Daniel Ricciardo,Lando Norris",2021,4.0,274.0,22,1.0,1.0,5.0,2.0
+Mclaren,"Carlos Sainz,Lando Norris",2020,4.0,201.0,17,0.0,0.0,2.0,3.0
+Mclaren,"Carlos Sainz,Lando Norris",2019,4.0,145.0,21,0.0,0.0,1.0,0.0
+Mclaren,"Fernando Alonso,Stoffel Vandoorne",2018,6.0,62.0,21,0.0,0.0,0.0,0.0
+Mclaren,"Jenson Button,Fernando Alonso,Stoffel Vandoorne",2017,9.0,30.0,20,0.0,0.0,0.0,1.0
+Mclaren,"Stoffel Vandoorne,Fernando Alonso,Jenson Button",2016,6.0,76.0,21,0.0,0.0,0.0,1.0
+Mclaren,"Fernando Alonso,Jenson Button,Kevin Magnussen",2015,9.0,27.0,19,0.0,0.0,0.0,0.0
+Mclaren,"Jenson Button,Kevin Magnussen",2014,5.0,181.0,19,0.0,0.0,2.0,0.0
+Mclaren,"Jenson Button,Sergio Perez",2013,5.0,122.0,19,0.0,0.0,0.0,1.0
+Mclaren,"Jenson Button,Lewis Hamilton",2012,3.0,378.0,20,7.0,8.0,13.0,3.0
+Mclaren,"Jenson Button,Lewis Hamilton",2011,2.0,497.0,19,6.0,1.0,18.0,6.0
+Mclaren,"Jenson Button,Lewis Hamilton",2010,2.0,454.0,19,5.0,1.0,16.0,6.0
+Mclaren,"Heikki Kovalainen,Lewis Hamilton",2009,3.0,71.0,17,2.0,4.0,5.0,0.0
+Mclaren,"Heikki Kovalainen,Lewis Hamilton",2008,2.0,151.0,18,6.0,8.0,13.0,3.0
+Mclaren,"Fernando Alonso,Lewis Hamilton",2007,0.0,0.0,17,8.0,8.0,24.0,5.0
+Mclaren,"Pedro de la Rosa,Kimi Raikkonen,Juan Pablo Montoya",2006,3.0,110.0,18,0.0,3.0,9.0,3.0
+Mclaren,"Alexander Wurz,Pedro de la Rosa,Juan Pablo Montoya,Kimi Raikkonen",2005,2.0,182.0,19,10.0,7.0,18.0,12.0
+Mclaren,"David Coulthard,Kimi Raikkonen",2004,5.0,69.0,18,1.0,1.0,4.0,2.0
+Mclaren,"David Coulthard,Kimi Raikkonen",2003,3.0,142.0,16,2.0,2.0,13.0,3.0
+Mclaren,"David Coulthard,Kimi Raikkonen",2002,3.0,65.0,17,1.0,0.0,10.0,2.0
+Mclaren,"David Coulthard,Mika Hakkinen",2001,2.0,102.0,17,4.0,2.0,13.0,6.0
+Mclaren,"David Coulthard,Mika Hakkinen",2000,2.0,162.0,17,7.0,7.0,22.0,12.0
+Mclaren,"David Coulthard,Mika Hakkinen",1999,2.0,124.0,16,7.0,11.0,16.0,9.0
+Mclaren,"David Coulthard,Mika Hakkinen",1998,1.0,156.0,16,9.0,12.0,20.0,9.0
+Mclaren,"David Coulthard,Mika Hakkinen",1997,4.0,63.0,17,3.0,1.0,7.0,2.0
+Mclaren,"David Coulthard,Mika Hakkinen",1996,4.0,49.0,16,0.0,0.0,6.0,0.0
+Mclaren,"Jan Magnussen,Nigel Mansell,Mark Blundell,Mika Hakkinen",1995,4.0,30.0,17,0.0,0.0,2.0,0.0
+Mclaren,"Philippe Alliot,Martin Brundle,Mika Hakkinen",1994,4.0,42.0,16,0.0,0.0,8.0,0.0
+Mclaren,"Mika Hakkinen,Ayrton Senna,Michael Andretti",1993,2.0,84.0,16,5.0,1.0,9.0,1.0
+Mclaren,"Ayrton Senna,Gerhard Berger",1992,2.0,99.0,16,5.0,1.0,12.0,3.0
+Mclaren,"Ayrton Senna,Gerhard Berger",1991,1.0,139.0,16,8.0,10.0,18.0,4.0
+Mclaren,"Ayrton Senna,Gerhard Berger",1990,1.0,121.0,16,6.0,12.0,18.0,5.0
+Mclaren,"Alain Prost,Ayrton Senna",1989,1.0,141.0,16,10.0,15.0,18.0,8.0
+Mclaren,"Alain Prost,Ayrton Senna",1988,1.0,199.0,16,15.0,15.0,25.0,10.0
+Mclaren,"Alain Prost,Stefan Johansson",1987,2.0,76.0,16,3.0,0.0,12.0,2.0
+Mclaren,"Alain Prost,Keke Rosberg",1986,2.0,96.0,16,4.0,2.0,12.0,2.0
+Mclaren,"John Watson,Alain Prost,Niki Lauda",1985,1.0,90.0,16,6.0,2.0,12.0,6.0
+Mclaren,"Alain Prost,Niki Lauda",1984,1.0,143.5,16,12.0,3.0,18.0,8.0
+Mclaren,"John Watson,Niki Lauda",1983,5.0,34.0,15,1.0,0.0,5.0,2.0
+Mclaren,"John Watson,Niki Lauda",1982,2.0,69.0,15,4.0,0.0,8.0,2.0
+Mclaren,"Andrea de Cesaris,John Watson",1981,6.0,28.0,15,1.0,0.0,4.0,1.0
+Mclaren,"Stephen South,Alain Prost,John Watson",1980,9.0,11.0,14,0.0,0.0,0.0,0.0
+Mclaren,"John Watson,Patrick Tambay",1979,7.0,15.0,15,0.0,0.0,1.0,0.0
+Mclaren,"Nelson Piquet,Tony Trimmer,Emilio de Villota,Bruno Giacomelli,Brett Lunger,James Hunt,Patrick Tambay",1978,8.0,15.0,16,0.0,0.0,1.0,0.0
+Mclaren,"Bruno Giacomelli,Gilles Villeneuve,Brett Lunger,Emilio de Villota,James Hunt,Jochen Mass",1977,3.0,60.0,17,3.0,6.0,7.0,3.0
+Mclaren,"James Hunt,Jochen Mass",1976,2.0,74.0,16,6.0,8.0,10.0,3.0
+Mclaren,"Dave Charlton,Emerson Fittipaldi,Jochen Mass",1975,3.0,53.0,14,3.0,0.0,10.0,2.0
+Mclaren,"Jochen Mass,David Hobbs,Dave Charlton,Denny Hulme,Emerson Fittipaldi,Mike Hailwood",1974,1.0,73.0,15,4.0,2.0,10.0,1.0
+Mclaren,"Jacky Ickx,Jody Scheckter,Denny Hulme,Peter Revson",1973,3.0,58.0,15,3.0,1.0,8.0,3.0
+Mclaren,"Jody Scheckter,Brian Redman,Denny Hulme,Peter Revson",1972,3.0,47.0,12,1.0,1.0,11.0,1.0
+Mclaren,"David Hobbs,Mark Donohue,Helmut Marko,Jackie Oliver,Denny Hulme,Jo Bonnier,Peter Gethin",1971,6.0,10.0,11,0.0,0.0,1.0,1.0
+Mclaren,"Jo Bonnier,Nanni Galli,Dan Gurney,Peter Gethin,Andrea de Adamich,Bruce McLaren,Denny Hulme,John Surtees",1970,5.0,35.0,12,0.0,0.0,5.0,1.0
+Mclaren,"Derek Bell,Vic Elford,Basil van Rooyen,Bruce McLaren,Denny Hulme",1969,4.0,38.0,11,1.0,0.0,5.0,0.0
+Mclaren,"Dan Gurney,Jo Bonnier,Bruce McLaren,Denny Hulme",1968,2.0,49.0,12,3.0,0.0,6.0,0.0
+Mclaren,Bruce McLaren,1967,10.0,3.0,6,0.0,0.0,0.0,0.0
+Mclaren,Bruce McLaren,1966,9.0,2.0,6,0.0,0.0,0.0,0.0
+Mercedes,"George Russell,Lewis Hamilton",2024,4.0,88.0,8,0.0,0.0,0.0,2.0
+Mercedes,"George Russell,Lewis Hamilton",2023,2.0,374.0,22,0.0,1.0,8.0,4.0
+Mercedes,"George Russell,Lewis Hamilton",2022,3.0,495.0,22,1.0,2.0,17.0,6.0
+Mercedes,"Lewis Hamilton,Valtteri Bottas",2021,1.0,604.5,22,9.0,9.0,28.0,10.0
+Mercedes,"George Russell,Lewis Hamilton,Valtteri Bottas",2020,1.0,573.0,17,13.0,15.0,25.0,8.0
+Mercedes,"Lewis Hamilton,Valtteri Bottas",2019,1.0,739.0,21,15.0,10.0,32.0,9.0
+Mercedes,"Lewis Hamilton,Valtteri Bottas",2018,1.0,655.0,21,11.0,13.0,25.0,10.0
+Mercedes,"Lewis Hamilton,Valtteri Bottas",2017,1.0,668.0,20,12.0,15.0,26.0,9.0
+Mercedes,"Lewis Hamilton,Nico Rosberg",2016,1.0,765.0,21,19.0,20.0,33.0,9.0
+Mercedes,"Lewis Hamilton,Nico Rosberg",2015,1.0,703.0,19,16.0,18.0,32.0,13.0
+Mercedes,"Lewis Hamilton,Nico Rosberg",2014,1.0,701.0,19,16.0,18.0,31.0,12.0
+Mercedes,"Lewis Hamilton,Nico Rosberg",2013,2.0,360.0,19,3.0,8.0,9.0,1.0
+Mercedes,"Michael Schumacher,Nico Rosberg",2012,5.0,142.0,20,1.0,1.0,3.0,3.0
+Mercedes,"Michael Schumacher,Nico Rosberg",2011,4.0,165.0,19,0.0,0.0,0.0,0.0
+Mercedes,"Michael Schumacher,Nico Rosberg",2010,4.0,214.0,19,0.0,0.0,3.0,0.0
+Mercedes,"Piero Taruffi,Andre Simon,Hans Herrmann,Juan Manuel Fangio,Karl Kling,Stirling Moss",1955,0.0,0.0,6,5.0,4.0,10.0,5.0
+Mercedes,"Hermann Lang,Hans Herrmann,Juan Manuel Fangio,Karl Kling",1954,0.0,0.0,6,4.0,4.0,7.0,4.0
+Rb-honda,"Daniel Ricciardo,Yuki Tsunoda",2024,6.0,18.0,8,0.0,0.0,0.0,0.0
+Red_bull,"Max Verstappen,Sergio Perez",2024,1.0,248.0,8,5.0,7.0,10.0,2.0
+Red_bull,"Max Verstappen,Sergio Perez",2023,1.0,790.0,22,21.0,14.0,30.0,11.0
+Red_bull,"Max Verstappen,Sergio Perez",2022,1.0,724.0,22,17.0,8.0,28.0,8.0
+Red_bull,"Max Verstappen,Sergio Perez",2021,2.0,578.5,22,11.0,10.0,23.0,8.0
+Red_bull,"Alexander Albon,Max Verstappen",2020,2.0,319.0,17,2.0,1.0,13.0,3.0
+Red_bull,"Alexander Albon,Max Verstappen,Pierre Gasly",2019,3.0,417.0,21,3.0,2.0,9.0,5.0
+Red_bull,"Daniel Ricciardo,Max Verstappen",2018,3.0,419.0,21,4.0,2.0,13.0,6.0
+Red_bull,"Daniel Ricciardo,Max Verstappen",2017,3.0,368.0,20,3.0,0.0,13.0,2.0
+Red_bull,"Max Verstappen,Daniel Ricciardo,Daniil Kvyat",2016,2.0,468.0,21,2.0,1.0,16.0,5.0
+Red_bull,"Daniel Ricciardo,Daniil Kvyat",2015,4.0,187.0,19,0.0,0.0,3.0,3.0
+Red_bull,"Sebastian Vettel,Daniel Ricciardo",2014,2.0,405.0,19,3.0,0.0,12.0,3.0
+Red_bull,"Mark Webber,Sebastian Vettel",2013,1.0,596.0,19,13.0,11.0,24.0,12.0
+Red_bull,"Mark Webber,Sebastian Vettel",2012,1.0,460.0,20,7.0,8.0,14.0,7.0
+Red_bull,"Mark Webber,Sebastian Vettel",2011,1.0,650.0,19,12.0,18.0,27.0,10.0
+Red_bull,"Mark Webber,Sebastian Vettel",2010,1.0,498.0,19,9.0,15.0,20.0,6.0
+Red_bull,"Mark Webber,Sebastian Vettel",2009,2.0,153.5,17,6.0,5.0,16.0,6.0
+Red_bull,"David Coulthard,Mark Webber",2008,7.0,29.0,18,0.0,0.0,1.0,0.0
+Red_bull,"David Coulthard,Mark Webber",2007,5.0,24.0,17,0.0,0.0,1.0,0.0
+Red_bull,"Robert Doornbos,Christian Klien,David Coulthard",2006,7.0,16.0,18,0.0,0.0,1.0,0.0
+Red_bull,"Vitantonio Liuzzi,Christian Klien,David Coulthard",2005,7.0,34.0,19,0.0,0.0,0.0,0.0
+Williams,"Alexander Albon,Logan Sargeant",2024,9.0,2.0,8,0.0,0.0,0.0,0.0
+Williams,"Alexander Albon,Logan Sargeant",2023,7.0,26.0,22,0.0,0.0,0.0,0.0
+Williams,"Nyck De Vries,Alexander Albon,Nicholas Latifi",2022,10.0,8.0,22,0.0,0.0,0.0,0.0
+Williams,"George Russell,Nicholas Latifi",2021,8.0,23.0,22,0.0,0.0,1.0,0.0
+Williams,"Jack Aitken,George Russell,Nicholas Latifi",2020,10.0,0.0,17,0.0,0.0,0.0,0.0
+Williams,"George Russell,Robert Kubica",2019,10.0,1.0,21,0.0,0.0,0.0,0.0
+Williams,"Lance Stroll,Sergey Sirotkin",2018,10.0,7.0,21,0.0,0.0,0.0,0.0
+Williams,"Paul di Resta,Felipe Massa,Lance Stroll",2017,5.0,83.0,20,0.0,0.0,1.0,0.0
+Williams,"Felipe Massa,Valtteri Bottas",2016,5.0,138.0,21,0.0,0.0,1.0,0.0
+Williams,"Felipe Massa,Valtteri Bottas",2015,3.0,257.0,19,0.0,0.0,4.0,0.0
+Williams,"Felipe Massa,Valtteri Bottas",2014,3.0,320.0,19,0.0,1.0,9.0,2.0
+Williams,"Pastor Maldonado,Valtteri Bottas",2013,9.0,5.0,19,0.0,0.0,0.0,0.0
+Williams,"Bruno Senna,Pastor Maldonado",2012,8.0,76.0,20,1.0,1.0,1.0,1.0
+Williams,"Pastor Maldonado,Rubens Barrichello",2011,9.0,5.0,19,0.0,0.0,0.0,0.0
+Williams,"Nico Hulkenberg,Rubens Barrichello",2010,6.0,69.0,19,0.0,1.0,0.0,0.0
+Williams,"Kazuki Nakajima,Nico Rosberg",2009,7.0,34.5,17,0.0,0.0,0.0,1.0
+Williams,"Kazuki Nakajima,Nico Rosberg",2008,8.0,26.0,18,0.0,0.0,2.0,0.0
+Williams,"Kazuki Nakajima,Alexander Wurz,Nico Rosberg",2007,4.0,33.0,17,0.0,0.0,1.0,0.0
+Williams,"Mark Webber,Nico Rosberg",2006,8.0,11.0,18,0.0,0.0,0.0,1.0
+Williams,"Antonio Pizzonia,Mark Webber,Nick Heidfeld",2005,5.0,66.0,19,0.0,1.0,4.0,0.0
+Williams,"Antonio Pizzonia,Marc Gene,Juan Pablo Montoya,Ralf Schumacher",2004,4.0,88.0,18,1.0,1.0,4.0,2.0
+Williams,"Marc Gene,Juan Pablo Montoya,Ralf Schumacher",2003,2.0,144.0,16,4.0,4.0,12.0,4.0
+Williams,"Juan Pablo Montoya,Ralf Schumacher",2002,2.0,92.0,17,1.0,7.0,13.0,3.0
+Williams,"Juan Pablo Montoya,Ralf Schumacher",2001,3.0,80.0,17,4.0,4.0,9.0,8.0
+Williams,"Jenson Button,Ralf Schumacher",2000,3.0,36.0,17,0.0,0.0,3.0,0.0
+Williams,"Alessandro Zanardi,Ralf Schumacher",1999,5.0,35.0,16,0.0,0.0,3.0,1.0
+Williams,"Heinz-Harald Frentzen,Jacques Villeneuve",1998,3.0,38.0,16,0.0,0.0,3.0,0.0
+Williams,"Heinz-Harald Frentzen,Jacques Villeneuve",1997,1.0,123.0,17,8.0,11.0,15.0,9.0
+Williams,"Damon Hill,Jacques Villeneuve",1996,1.0,175.0,16,12.0,12.0,21.0,11.0
+Williams,"Damon Hill,David Coulthard",1995,2.0,118.0,17,5.0,12.0,17.0,6.0
+Williams,"Nigel Mansell,David Coulthard,Ayrton Senna,Damon Hill",1994,1.0,118.0,16,7.0,6.0,13.0,8.0
+Williams,"Alain Prost,Damon Hill",1993,1.0,168.0,16,10.0,15.0,22.0,10.0
+Williams,"Nigel Mansell,Riccardo Patrese",1992,1.0,164.0,16,10.0,15.0,21.0,11.0
+Williams,"Nigel Mansell,Riccardo Patrese",1991,2.0,125.0,16,7.0,6.0,17.0,8.0
+Williams,"Riccardo Patrese,Thierry Boutsen",1990,4.0,57.0,16,2.0,1.0,4.0,5.0
+Williams,"Riccardo Patrese,Thierry Boutsen",1989,2.0,77.0,16,2.0,1.0,11.0,1.0
+Williams,"Jean-Louis Schlesser,Martin Brundle,Nigel Mansell,Riccardo Patrese",1988,7.0,20.0,16,0.0,0.0,2.0,1.0
+Williams,"Riccardo Patrese,Nelson Piquet,Nigel Mansell",1987,1.0,137.0,16,9.0,12.0,18.0,7.0
+Williams,"Nelson Piquet,Nigel Mansell",1986,1.0,141.0,16,9.0,4.0,19.0,11.0
+Williams,"Keke Rosberg,Nigel Mansell",1985,3.0,71.0,16,4.0,3.0,8.0,4.0
+Williams,"Jacques Laffite,Keke Rosberg",1984,6.0,25.5,16,1.0,0.0,2.0,0.0
+Williams,"Jonathan Palmer,Jacques Laffite,Keke Rosberg",1983,4.0,36.0,15,1.0,1.0,2.0,0.0
+Williams,"Derek Daly,Mario Andretti,Carlos Reutemann,Keke Rosberg",1982,4.0,58.0,15,1.0,1.0,7.0,0.0
+Williams,"Emilio de Villota,Alan Jones,Carlos Reutemann",1981,1.0,95.0,15,4.0,2.0,13.0,7.0
+Williams,"Geoff Lees,Kevin Cogan,Desire Wilson,Rupert Keegan,Alan Jones,Carlos Reutemann",1980,1.0,120.0,14,6.0,3.0,18.0,6.0
+Williams,"Alan Jones,Clay Regazzoni",1979,2.0,75.0,15,5.0,3.0,10.0,3.0
+Williams,Alan Jones,1978,9.0,11.0,16,0.0,0.0,1.0,2.0
+Williams,Loris Kessel,1977,0.0,0.0,1,0.0,0.0,0.0,0.0
+Williams,"Hans Binder,Warwick Brown,Arturo Merzario,Michel Leclere,Jacky Ickx,Renzo Zorzi",1976,0.0,0.0,13,0.0,0.0,0.0,0.0

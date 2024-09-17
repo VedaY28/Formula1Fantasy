@@ -1,0 +1,104 @@
+{
+    "drivers": [
+        {
+            "cover": "/drivers/CarlosSainz.png", 
+            "title": "Carlos Sainz", 
+            "search": "Carlos Sainz"
+        },
+        {
+            "cover": "/drivers/CharlesLeclerc.png", 
+            "title": "Charles Leclerc", 
+            "search": "Charles Leclerc"
+        },
+        {
+            "cover": "/drivers/LewisHamilton.png", 
+            "title": "Lewis Hamilton", 
+            "search": "Lewis Hamilton"
+        },
+        {
+            "cover": "/drivers/GeorgeRussell.png", 
+            "title": "George Russell", 
+            "search": "George Russell"
+        },
+        {
+            "cover": "/drivers/MaxVerstappen.png", 
+            "title": "Max Verstappen", 
+            "search": "Max Verstappen"
+        },
+        {
+            "cover": "/drivers/SergioPerez.png", 
+            "title": "Sergio Perez", 
+            "search": "Sergio Perez"
+        },
+        {
+            "cover": "/drivers/LandoNorris.png", 
+            "title": "Lando Norris", 
+            "search": "Lando Norris"
+        },
+        {
+            "cover": "/drivers/OscarPiastri.png", 
+            "title": "Oscar Piastri", 
+            "search": "Oscar Piastri"
+        },
+        {
+            "cover": "/drivers/FernandoAlonso.png", 
+            "title": "Fernando Alonso", 
+            "search": "Fernando Alonso"
+        },
+        {
+            "cover": "/drivers/LanceStroll.png", 
+            "title": "Lance Stroll", 
+            "search": "Lance Stroll"
+        },
+        {
+            "cover": "/drivers/KevinMagnussen.png", 
+            "title": "Kevin Magnussen", 
+            "search": "Kevin Magnussen"
+        },
+        {
+            "cover": "/drivers/NicoHulkenberg.png", 
+            "title": "Nico Hulkenberg", 
+            "search": "Nico Hulkenberg"
+        },
+        {
+            "cover": "/drivers/AlexanderAlbon.png", 
+            "title": "Alexander Albon", 
+            "search": "Alexander Albon"
+        },
+        {
+            "cover": "/drivers/LoganSargeant.png", 
+            "title": "Logan Sargeant", 
+            "search": "Logan Sargeant"
+        }, 
+        {
+            "cover": "/drivers/PierreGasly.png", 
+            "title": "Pierre Gasly", 
+            "search": "Pierre Gasly"
+        },
+        {
+            "cover": "/drivers/EstebanOcon.png", 
+            "title": "Esteban Ocon", 
+            "search": "Esteban Ocon"
+        },
+        {
+            "cover": "/drivers/YukiTsunoda.png", 
+            "title": "Yuki Tsunoda", 
+            "search": "Yuki Tsunoda"
+        },
+        {
+            "cover": "/drivers/DanielRicciardo.png", 
+            "title": "Daniel Ricciardo", 
+            "search": "Daniel Ricciardo"
+        },
+        {
+            "cover": "/drivers/ValtteriBottas.png", 
+            "title": "Valtteri Bottas", 
+            "search": "Valtteri Bottas"
+        },
+        {
+            "cover": "/drivers/ZhouGuanyu.png", 
+            "title": "Zhou Guanyu", 
+            "search": "Zhou Guanyu"
+        }   
+    ]
+}
