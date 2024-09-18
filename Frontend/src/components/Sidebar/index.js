@@ -1,7 +1,7 @@
 import './index.scss'
 import { Link, NavLink } from "react-router-dom"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome, faSearch, faTshirt, faBars, faClose, faUsers, faFlag } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faSearch, faBars, faClose, faUsers, faCalendarDays, faUser } from '@fortawesome/free-solid-svg-icons'
 import LogoF from '../../assets/images/Formula1Logo.png'
 // import LogoSubtitle from '../../assets/images/sub-logo.png'
 import { useState } from 'react'
@@ -21,11 +21,11 @@ const Sidebar = () => {
                 <NavLink exact="true" activeclassname = "active" className = "teams-link" to="/teams">
                     <FontAwesomeIcon icon = {faUsers} onClick={() => setShowNav(false)}/>
                 </NavLink>
-                <NavLink exact="true" activeclassname = "active" className = "season-link" to="/season">
-                    <FontAwesomeIcon icon = {faFlag} onClick={() => setShowNav(false)} />
-                </NavLink>
                 <NavLink exact="true" activeclassname = "active" className = "driver-link" to="/driver">
-                    <FontAwesomeIcon icon = {faTshirt}  onClick={() => setShowNav(false)}/>
+                    <FontAwesomeIcon icon = {faUser}  onClick={() => setShowNav(false)}/>
+                </NavLink>
+                <NavLink exact="true" activeclassname = "active" className = "season-link" to="/season">
+                    <FontAwesomeIcon icon = {faCalendarDays} onClick={() => setShowNav(false)} />
                 </NavLink>
                 <NavLink exact="true" activeclassname = "active" className = "search-link" to="/search">
                     <FontAwesomeIcon icon = {faSearch} onClick={() => setShowNav(false)} />
