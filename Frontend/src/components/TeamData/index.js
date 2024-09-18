@@ -9,6 +9,7 @@ const TeamData = () => {
   const [driverData, setDriverData] = useState([]);
   const [driversToShow, setDriversToShow] = useState(10);
   const [letterClass] = useState('text-animate');
+  // console.log('TeamData component rendered'); 
   
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -16,15 +17,18 @@ const TeamData = () => {
     const seasonValue = params.get('season');
     const driverValue = params.get('driver');
     const nameValue = params.get('name');
+    console.log('Team Value:', teamValue); // Add this line
     
     if (teamValue) {
       // axios.get(`http://localhost:8080/api/v1/player?team=${encodeURIComponent(teamValue)}`)
       axios.get(`http://localhost:8080/api/v1/drivers/team/${encodeURIComponent(teamValue)}`)
         .then(response => {
+          console.log('Response Data:', response.data);
           setDriverData(response.data);
           setLoading(false);
         })
         .catch(error => {
+          console.error('Error fetching data:', error); // Add this line
           setError(error);
           setLoading(false);
         });
@@ -116,7 +120,7 @@ const TeamData = () => {
         </tbody>
       </table>
       {driversToShow < driverData.length && (
-        <button onClick={() => setDriverData(driversToShow + 10)} style={{ marginTop: '10px', marginBottom: '10px' }} className={`show-more-button ${loading ? 'loading' : ''}`}>
+        <button onClick={() => setDriversToShow(driversToShow + 10)} style={{ marginTop: '10px', marginBottom: '10px' }} className={`show-more-button ${loading ? 'loading' : ''}`}>
           Show More
         </button>
       )}
