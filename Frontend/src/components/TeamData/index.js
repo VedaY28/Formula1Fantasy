@@ -15,12 +15,11 @@ const TeamData = () => {
     const params = new URLSearchParams(window.location.search);
     const teamValue = params.get('team');
     const seasonValue = params.get('season');
-    const driverValue = params.get('driver');
+    const driverValue = params.get('name');
     const nameValue = params.get('name');
     console.log('Team Value:', teamValue); // Add this line
     
     if (teamValue) {
-      // axios.get(`http://localhost:8080/api/v1/player?team=${encodeURIComponent(teamValue)}`)
       axios.get(`http://localhost:8080/api/v1/drivers/team/${encodeURIComponent(teamValue)}`)
         .then(response => {
           console.log('Response Data:', response.data);
@@ -33,7 +32,6 @@ const TeamData = () => {
           setLoading(false);
         });
     } else if (seasonValue){
-      // axios.get(`http://localhost:8080/api/v1/player?season=${encodeURIComponent(seasonValue)}`)
       axios.get(`http://localhost:8080/api/v1/drivers/season/${encodeURIComponent(seasonValue)}`)
       .then(response => {
         setDriverData(response.data);
@@ -44,7 +42,6 @@ const TeamData = () => {
         setLoading(false);
       });
     } else if (driverValue){
-      // axios.get(`http://localhost:8080/api/v1/player?driver=${encodeURIComponent(driverValue)}`)
       axios.get(`http://localhost:8080/api/v1/drivers/name/${encodeURIComponent(driverValue)}`)
       .then(response => {
         setDriverData(response.data);
@@ -83,7 +80,7 @@ const TeamData = () => {
     <div className={`fade-in ${loading ? 'loading' : ''}`}>
     <div className="table-container">
       <h1 className = "page-title">
-        <AnimatedLetters letterClass = {letterClass} strArray={"Driver Data".split("")} idx={12}/>
+        <AnimatedLetters letterClass = {letterClass} strArray={"Data".split("")} idx={12}/>
       </h1>
       <table>
         <thead>

@@ -39,7 +39,7 @@ const Drivers = () => {
                         <img src={driver.cover} alt="drivers" className="driver-image" />
                         <div className="content">
                             <p className="title">{driver.title}</p>
-                            <Link className="btn" to={`/data?driver?${encodeURIComponent(driver.search)}`}>
+                            <Link className="btn" to={`/data?name=${encodeURIComponent(driver.title)}`}>
                                 View
                             </Link>
                         </div>
@@ -53,7 +53,6 @@ const Drivers = () => {
         <>
             <div className="container drivers-page">
                 <h1 className="page-title">
-                    <br />
                     <AnimatedLetters letterClass={letterClass} strArray={"Drivers".split("")} idx={15} />
                 </h1>
                 <div className="search-bar">

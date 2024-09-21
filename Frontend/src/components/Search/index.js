@@ -36,7 +36,7 @@ const Search = () => {
                 <div className="search-bar">
                     <input
                         type="text"
-                        placeholder="Search for drivers"
+                        placeholder="Search for Drivers"
                         value={searchQuery}
                         onChange={handleSearchChange}
                     />

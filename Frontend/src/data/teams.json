@@ -2,43 +2,53 @@
     "teams": [
         {
             "cover": "/teams/Alpine.jpg", 
-            "title": "Alpine"
+            "title": "Alpine",
+            "search": "Alpine"
         }, 
         {
             "cover": "/teams/AstonMartin.jpg", 
-            "title": "Aston Martin"
+            "title": "Aston Martin",
+            "search": "Aston"
         },
         {
             "cover": "/teams/Ferrari.jpg", 
-            "title": "Ferrari"
+            "title": "Ferrari",
+            "search": "Ferrari"
         },
         {
             "cover": "/teams/Haas.jpg", 
-            "title": "Haas"
+            "title": "Haas",
+            "search": "Haas"
         },
         {
             "cover": "/teams/Mclaren.jpg", 
-            "title": "Mclaren"
+            "title": "Mclaren",
+            "search": "Mclaren"
         },
         {
             "cover": "/teams/Mercedes.jpg", 
-            "title": "Mercedes"
+            "title": "Mercedes",
+            "search": "Mercedes"
         },
         {
             "cover": "/teams/RB.jpg", 
-            "title": "RB"
+            "title": "RB",
+            "search": "Rb-honda"
         }, 
         {
             "cover": "/teams/RedBull.jpg", 
-            "title": "Red Bull"
+            "title": "Red Bull",
+            "search": "Red_bull"
         },
         {
             "cover": "/teams/Stake.jpg", 
-            "title": "Stake"
+            "title": "Kick-Sauber",
+            "search": "Kick-sauber"
         },
         {
             "cover": "/teams/Williams.jpg", 
-            "title": "Williams"
+            "title": "Williams",
+            "search": "Williams"
         }
     ]
 }
